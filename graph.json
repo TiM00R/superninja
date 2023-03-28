@@ -30,7 +30,7 @@
 },
 {
 "atom": "H",
-"size": 1
+"size": 30
 },
 {
 "atom": "H",
@@ -107,7 +107,7 @@
 {
 "source": 0,
 "target": 9,
-"bond": 1
+"bond": 2
 },
 {
 "source": 5,
